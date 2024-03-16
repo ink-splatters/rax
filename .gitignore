@@ -2,3 +2,6 @@ rax-test
 rax-oom-test
 *.o
 *.dSYM
+.direnv
+.DS_Store
+/.pre-commit-config.yaml
