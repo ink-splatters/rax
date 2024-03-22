@@ -1,0 +1,13 @@
+[requires]
+catch2/3.5.3
+fmt/10.2.1
+fmtlog/2.2.1
+scnlib/2.0.2
+
+[layout]
+cmake_layout
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
